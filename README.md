@@ -4,8 +4,9 @@
 
 ## 好用的梯子推荐
 目前我自己日常用的设备以一台windows电脑，一台mac和一只苹果手机为主，所以对于靠谱好用的梯子软件的定义以三平台贯通为主，最好是一个账号能够多开多用。
-![](https://pic.imgdb.cn/item/6527e9adc458853aef5d55e0.jpg)
-FJcloud 梯子很好的满足了我的需求，也是我这两年唯一长期持续使用的梯子。
+![](https://pic.imgdb.cn/item/6528cf38c458853aefb2339e.jpg)
+
+#### FJcloud 梯子很好的满足了我的需求，也是我这两年唯一长期持续使用的梯子。
 
 [**点击直达官网**](https://go.51tz.cc/fjcloud)
 
